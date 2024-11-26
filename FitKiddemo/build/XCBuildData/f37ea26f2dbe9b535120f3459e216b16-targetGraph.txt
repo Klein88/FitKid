@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+SwiftyCam in Pods, no dependencies
+Pods-Fit Kid  use pod in Pods, depends on:
+SwiftyCam in Pods (explicit)
+Pods-Fit Kid  use pod-Fit Kid  use podUITests in Pods, depends on:
+SwiftyCam in Pods (explicit)
+Pods-Fit Kid  use podTests in Pods, depends on:
+Pods-Fit Kid  use pod in Pods (explicit)

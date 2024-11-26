@@ -1,0 +1,54 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e17b3b4e700eff24a26c50c4bca8dbc5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98808c1906f03d82d929594eb68791e9d2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b3f5119661501674897a8b9f427f4c6d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fd938beba1e64f9326cb6289b832bf4f"
+    }
+  ],
+  "containerPath" : "/Users/qiuwenhao/Desktop/Fit Kid  use pod/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/qiuwenhao/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/qiuwenhao/Library/Developer/Xcode/DerivedData/Pods-dkpuhqpbzcvpruchwoydjjhftfca/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/qiuwenhao/Library/Developer/Xcode/DerivedData/Pods-dkpuhqpbzcvpruchwoydjjhftfca/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

@@ -1,0 +1,6 @@
+framework module Pods_Fit_Kid__use_pod_Fit_Kid__use_podUITests {
+  umbrella header "Pods-Fit Kid  use pod-Fit Kid  use podUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

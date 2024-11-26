@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "arkit-smarthittest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/ARKit-SmartHitTest",
+      "state" : {
+        "revision" : "2b7145d55ca273f1ec0328783f87e93b9473f9f5",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "axistabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisTabView.git",
+      "state" : {
+        "revision" : "5677e874634a2ccf890a1a5ed9258b4d5d9a3d7a",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "cardcarousel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bkeys818/CardCarousel",
+      "state" : {
+        "branch" : "main",
+        "revision" : "00a48e0f1e076358939a7d96045db547be17000b"
+      }
+    },
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "9115a992c91fa19cbb4f2241084240d38654a1fc",
+        "version" : "1.5.5"
+      }
+    },
+    {
+      "identity" : "focusentity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/FocusEntity",
+      "state" : {
+        "revision" : "4b4840678c618c675a84960cf11c50a8aecc0104",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "quickpose-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/quickpose/quickpose-ios-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f04e0a700113349575673b828c58ce3f55bd7547"
+      }
+    },
+    {
+      "identity" : "slideovercard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joogps/SlideOverCard",
+      "state" : {
+        "revision" : "98af5370e49d3d51efb387aacee0245ec656e32b",
+        "version" : "2.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
